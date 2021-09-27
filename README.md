@@ -4,7 +4,7 @@ Hopefully, this documentation will provide you a glimpse of basic concept and us
 
 ## Table of contents
 
-### [Functions in Kotlin](basics/function.md)
+### [Function in Kotlin](basics/function.md)
 * Characteristic
 * Declaration
 * Default arguments & named arguments

@@ -5,8 +5,8 @@
 ## Basics
 * [Functions](basics/function.md)
 
-## Official Libraries
-* [Coroutine](libraries/coroutines.md)
+## Libraries
+* [Coroutines](libraries/coroutines.md)
 
 ## Code Style Guide
 * [Nomenclature](conventions/nomenclature.md)
