@@ -1,6 +1,6 @@
 # Introduction
 
-Hopefully, this documentation will provide you a glimpse of basic concept and usage we commonly used of Kotlin on daily basis.
+This documentation will provide you a glimpse of basic concept and usage we commonly used of Kotlin on daily basis.
 
 ## Table of contents
 
